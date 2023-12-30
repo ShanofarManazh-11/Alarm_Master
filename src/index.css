@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.alarm{
+  text-align: center;
+  margin-top: 20%;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.world{
+  text-align: center;
+  margin-top: 20%;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.stop{
+  text-align: center;
+  margin-top: 20%;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.timer{
+  text-align: center;
+  margin-top: 20%;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn{
+  display: inline-block; 
+  border: 1px solid #131313; 
+  background-color: white;
+  text-align: center;
+  border-radius: 1rem;
+  font-size: 1rem;
+  padding: 0.5rem; 
+  color: black;
+  cursor: pointer
+}
+
+.btn:hover{
+  background-color:#f2f2f2 ;
+}
